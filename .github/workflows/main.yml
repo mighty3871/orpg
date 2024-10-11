@@ -20,4 +20,4 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         npm install
-        npm run ng -- deploy --name="waldo" --email="dwaldo@naver.com" --no-silent
+        npm run ng -- deploy --name="mighty3871" --email="mighty3871@gmail.com" --no-silent
