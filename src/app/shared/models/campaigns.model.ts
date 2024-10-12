@@ -66,6 +66,59 @@ export const Campaigns = [
         ],
       },
       
+      {
+        index: '3', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
+        name: '3화', // 저장소에서 표시할 파일 이름
+        images: [
+          {
+            id: `RKxWjKiHj3jpmnN1`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '1.png',
+          },
+          {
+            id: `9MsAwFGwXBYs8iGa`,
+            file: '2.png',
+          },
+          {
+            id: `2YfR8fgGqFOXe8R0`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '1.png',
+          },
+          {
+            id: `cH0vS7plj92LD3bf`,
+            file: '3.png',
+          },
+          {
+            id: `8T2TuSK51fD2bkvZ`,
+            file: '4.png',
+          },
+          {
+            id: `MSAgpjfOjW61MsTk`,
+            file: '5.png',
+          },
+          {
+            id: `BGETXDvKPfZVjYt0`,
+            file: '6.png',
+          },
+          {
+            id: `zoYO963mOma8YUm3`,
+            file: '7.png',
+          },
+          {
+            id: `HWImKthzI2ximHaI`,
+            file: '8.png',
+          },
+          {
+            id: `NdQ8pGCOek4hjiMJ`,
+            file: '9.png',
+          },
+          {
+            id: `PopxkPxTD04m6Jyz`,
+            file: '10.png',
+          },
+
+        ],
+        interfaces: [
+        ],
+      },
       
     ]
   },
