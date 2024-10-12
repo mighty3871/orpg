@@ -1,5 +1,5 @@
 export const environment = {
   user: "mighty3871",
-  debug: true,
+  debug: false,
   production: true,
 };
