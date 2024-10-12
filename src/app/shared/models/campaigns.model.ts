@@ -15,7 +15,7 @@ export const Campaigns = [
             file: '1.png',
           },
           {
-            id: `aFsMmMtXccZCjAYx`,
+            id: `Rce24wp2Ylqid1Vn`,
             file: '2.png',
           },
           {
