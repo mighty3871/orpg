@@ -181,6 +181,74 @@ export const Campaigns = [
       
     ]
   },
+
+  {
+    title: '홍어사냥', // orpg\src\campaigns에서 세션 로그가 들어있는 폴더 이름
+    label: '홍어의 울음소리', // 저장소에서 표시할 캠페인 이름
+    platform: 'FVTT', // 롤20이면 "roll20", FVTT면 "FVTT"
+    npcs: [
+    ],
+    logs: [
+      {
+        index: '1', // orpg\src\campaigns\TEST\logs 폴더 내에 있는 html 파일 이름
+        name: '1화', // 저장소에서 표시할 파일 이름
+        images: [
+          {
+            id: `LWkNCcxfprgHf9zc`, // 롤20 로그 html에서 data-messageid 부분이다. 그 아래로 내려갈 시 아래에 적힌 이름의 이미지로 바뀐다.
+            file: '1.png',
+          },
+          {
+            id: `54iV6u8Wj4u01bWS`,
+            file: '2.png',
+          },
+          {
+            id: `bbPdAiAzdv4rJ9Dv`,
+            file: '3.png',
+          },
+          {
+            id: `hC75jPr6jT9mAPMG`,
+            file: '4.png',
+          },
+          {
+            id: `f9cem054Cf4zTIPk`,
+            file: '5.png',
+          },
+          {
+            id: `uVQ7LMiYCaxmfLqs`,
+            file: '6.png',
+          },
+          {
+            id: `n5nxZbPGsJXjnYk5`,
+            file: '7.png',
+          },
+          {
+            id: `U05Q1ecy94f78sdL`,
+            file: '8.png',
+          },
+          {
+            id: `uB4HIdGqeAkqLKXE`,
+            file: '9.png',
+          },
+          {
+            id: `tHtES5tDvNW4Cljh`,
+            file: '10.png',
+          },
+          {
+            id: `JBz730CCevVSOQZp`,
+            file: '11.png',
+          },
+          {
+            id: `9ogHJphRXtTNoOjD`,
+            file: '12.png',
+          },
+
+        ],
+        interfaces: [
+        ],
+      },
+      
+    ]
+  },
 ];
 
 export interface Campaign {
