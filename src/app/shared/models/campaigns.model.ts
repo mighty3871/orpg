@@ -298,11 +298,6 @@ export const Campaigns = [
             id: `v3gmK3leY9qTQOZP`,
             file: '12.png',
           },
-          {
-            id: `pb1cct97Hq3CDYNY`,
-            file: '13.png',
-          },
-
 
         ],
         interfaces: [
