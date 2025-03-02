@@ -246,6 +246,68 @@ export const Campaigns = [
         interfaces: [
         ],
       },
+      {
+        index: '2', 
+        name: '2화', 
+        images: [
+          {
+            id: `hDQGReWnwE6G9dTh`, 
+            file: '1.png',
+          },
+          {
+            id: `5urZjyJaViw8Dfyp`,
+            file: '2.png',
+          },
+          {
+            id: `uStnmNxqIHwlnrZM`,
+            file: '3.png',
+          },
+          {
+            id: `YnDuT2y7ctfZFMqh`,
+            file: '4.png',
+          },
+          {
+            id: `1KkqIgMu5LFM5sMG`,
+            file: '5.png',
+          },
+          {
+            id: `okIcXbyGVCDADqlt8`,
+            file: '6.png',
+          },
+          {
+            id: `6fiJjE3a8oUejSJs`,
+            file: '7.png',
+          },
+          {
+            id: `So8TrXdAXXCQTCdc`,
+            file: '8.png',
+          },
+          {
+            id: `ccgGSSlLFhDNG97y`,
+            file: '9.png',
+          },
+          {
+            id: `DXqoOAGpIQ972YDR`,
+            file: '10.png',
+          },
+          {
+            id: `1GcZ2xbCHYpxdLzF`,
+            file: '11.png',
+          },
+          {
+            id: `v3gmK3leY9qTQOZP`,
+            file: '12.png',
+          },
+          {
+            id: `pb1cct97Hq3CDYNY`,
+            file: '13.png',
+          },
+
+
+        ],
+        interfaces: [
+        ],
+      },
       
     ]
   },
